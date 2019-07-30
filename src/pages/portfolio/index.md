@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: These people pay me money in exchange for my services. I love them.
 layout_style: mosaic
 menus:
   main:
@@ -8,3 +8,4 @@ menus:
     weight: 2
 template: portfolio
 ---
+
