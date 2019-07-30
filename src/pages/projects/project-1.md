@@ -2,8 +2,8 @@
 title: Maintainers Anonymous
 subtitle: 'Maintainers Anonymous, a podcast from Henry Zhu, is:'
 date: 2019-07-09T06:00:00.000Z
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+thumb_img_path: /images/maintainers-anonymous.jpg
+content_img_path: ''
 template: project
 ---
 ## Sample Episodes
