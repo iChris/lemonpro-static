@@ -9,13 +9,7 @@
   },
   "footer": {
     "content": "&copy; LemonProductions.ca. All rights reserved.",
-    "links": [
-      {
-        "text": "Twitter",
-        "url": "https://twitter.com/lemonproduction",
-        "new_window": true
-      }
-    ],
+    "links": [],
     "has_social": true
   }
 }
