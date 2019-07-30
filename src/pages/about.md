@@ -1,18 +1,21 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+subtitle: Who's behind the Lemon
+img_path: /images/family-2018-3.jpg
 menus:
   main:
     title: About
     weight: 4
 template: page
 ---
+Lemon Productions is a web and new media development studio based in Saskatoon, Saskatchewan run by Chris Enns. Helping individuals and businesses get off the ground and onto the web is what drives me and why I love running my own business.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+In 2018 I focused in on helping edit, produce, and consult in podcasting and video for the web. While I love building websites and dabbling in marketing (and still do on occasion), getting to work in audio/video with clients is my chance to come full circle to what I had hoped to do with I started Lemon Productions back in 2006.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+I love working with people who have an idea of what they want to do but aren’t sure how best to get there. With the variety of tools and options available online, hiring Lemon Productions to consult on your next online project can save you time and frustration.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+## Who I Work For
 
-*Thank You for reading!*
+When you’re hiring Chris & Lemon Productions, it’s kind of like you’re hiring a team of 5. I don’t usually bring all of them to meetings, let my daughter write proposals, or let my boys edit podcasts – but helping you succeed in whatever you’ve hired me to do means I get to transfer that success back to my family.
+
+By choosing to work with me, you’re supporting a Saskatoon family. And we thank you for that.
