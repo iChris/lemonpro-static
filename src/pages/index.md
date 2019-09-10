@@ -39,17 +39,25 @@ sections:
     section_id: testimonials
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
+      - author: Justin Jackson
+        avatar: /images/justin-jackson.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
+          I love the editing you do on our show. You cut out the pieces when I’m
+          looking stuff out on the web, and put in delightful little clips.
+      - author: Marie Mosley at CodePen Radio
+        avatar: /images/marie-mosley.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Chris is everything we could ask for in an audio producer for our
+          podcast. He is reliable, flexible, and creative. And of course, he
+          makes us sound good!
+      - author: Chris Coyier at ShopTalk Show
+        avatar: /images/chriscoyier.jpg
+        content: >-
+          The reason we’re able to keep doing ShopTalk week after week is
+          because we have Chris Enns behind the scenes stitching together our
+          tracks, fixing our flubs, equalizing the sound, and adding a little
+          flair where the episode could use it. He makes it all work, while
+          bringing new ideas and enthusiasm to the process.
     title: Testimonials
     type: testimonialsblock
   - actions:
