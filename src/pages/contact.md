@@ -6,4 +6,7 @@ menus:
     weight: 5
 template: contact
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email a <mailto:contact@lemonproductions.ca>.
+
+Let me know how I can help you get started podcasting or level up your existing podcast.
+
+Please fill the contact form below or send us an email a <mailto:contact@lemonproductions.ca>.

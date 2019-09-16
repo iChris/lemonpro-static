@@ -1,0 +1,33 @@
+---
+title: Maintainers Anonymous
+subtitle: 'Maintainers Anonymous, a podcast from Henry Zhu, is'
+date: '2019-09-04'
+thumb_img_path: /images/maintainers-anonymous.jpg
+content_img_path: '/images/maintainers-anonymous.jpg'
+template: project
+---
+
+## Official Description
+
+> How can we work together to achieve a common goal: whether in our code, cities, or infrastructure? Henry Zhu chats with fellow maintainers across all disciplines of life on their process, motivations, and struggles as they learn in public.
+
+## Sample Episodes
+
+* [Speed Running With Omnigamer](https://www.maintainersanonymous.com/1)
+* [Boundaries with Stephanie Hurlburt](https://www.maintainersanonymous.com/2)
+
+## How it Works
+
+Henry Zhu records conversations with his guest(s) and sends me the audio files over Google Drive.
+
+I edit for content and any requests Henry has for changes, add intro/outro music, add his personal spoken outro, levels.
+
+I send a mixed down MP3 with chapter markers and album art for Henry to publish on his podcast’s website hosted by Transistor.fm.
+
+## Where to Listen
+
+You can listen on MaintainersAnonymous.com, Apple Podcasts, Google Podcasts, or Spotify.
+
+## Want Help Editing Your Podcast?
+
+If you like the idea of handing off editing and production of your podcast like Henry Zhu did, [please get in touch with me](/contact).

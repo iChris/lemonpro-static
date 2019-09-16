@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: These people pay me money in exchange for my services. I love them.
+subtitle: Working with the best folks around.
 layout_style: mosaic
 menus:
   main:
