@@ -1,7 +1,7 @@
 ---
 title: Drinking Socially - The Official Untappd Podcast
 subtitle: 'A weekly look into what's happening at Untappd and in the world of beer.'
-date: '2018-09-23'
+date: '2018-08-23'
 thumb_img_path: /images/Untappd-podcast-drinking-socially.jpg
 content_img_path: '/images/Untappd-podcast-drinking-socially.jpg'
 template: project
